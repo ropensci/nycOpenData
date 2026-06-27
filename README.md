@@ -9,12 +9,10 @@ downloads](https://cranlogs.r-pkg.org/badges/grand-total/nycOpenData?color=blue)
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 [![Project Status:
 Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![Codecov test
-coverage](https://codecov.io/gh/martinezc1/nycOpenData/branch/main/graph/badge.svg)](https://app.codecov.io/gh/martinezc1/nycOpenData)
 [![R-bloggers](https://img.shields.io/badge/Featured%20on-R--bloggers-orange)](https://www.r-bloggers.com/2026/01/nycopendata-a-unified-r-interface-to-nyc-open-data-apis/)
 [![R
 Weekly](https://img.shields.io/badge/Featured%20on-R%20Weekly-blue)](https://rweekly.org/#RintheRealWorld)
-[![R-CMD-check](https://github.com/martinezc1/nycOpenData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/martinezc1/nycOpenData/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/ropensci/nycOpenData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/nycOpenData/actions/workflows/R-CMD-check.yaml)
 
 `nycOpenData` provides a lightweight R interface to the [NYC Open
 Data](https://opendata.cityofnewyork.us/) Socrata API.
@@ -123,7 +121,7 @@ install.packages("nycOpenData")
 ### Development version (GitHub)
 
 ``` r
-devtools::install_github("martinezc1/nycOpenData")
+devtools::install_github("ropensci/nycOpenData")
 ```
 
 ------------------------------------------------------------------------
@@ -265,7 +263,7 @@ package provides a general interface for any Socrata-backed portal,
 
 We welcome contributions! If you find a bug or would like to request a
 wrapper for a specific NYC dataset, please open an issue or submit a
-pull request on [GitHub](https://github.com/martinezc1/nycOpenData).
+pull request on [GitHub](https://github.com/ropensci/nycOpenData).
 
 ------------------------------------------------------------------------
 
