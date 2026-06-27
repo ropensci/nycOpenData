@@ -116,6 +116,14 @@ Socrata-powered open data portals:
 
 ``` r
 install.packages("nycOpenData")
+
+install.packages(
+  "nycOpenData",
+  repos = c(
+    "https://ropensci.r-universe.dev",
+    "https://cloud.r-project.org"
+  )
+)
 ```
 
 ### Development version (GitHub)
