@@ -22,7 +22,7 @@ Designed primarily for students, educators, and researchers, `nycOpenData`
 reduces the technical overhead required to begin working with civic datasets
 while still exposing the underlying structure of the NYC Open Data ecosystem.
 
-Version **0.2.2** introduces a streamlined, catalog-driven interface for NYC Open Data.
+Version **0.2.3** introduces a streamlined, catalog-driven interface for NYC Open Data.
 
 While users may still explore datasets through the NYC Open Data Portal itself,
 `nycOpenData` streamlines the transition from discovery to reproducible analysis
