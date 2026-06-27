@@ -220,6 +220,10 @@ Special thanks to the students of **PSYC 7750G – Reproducible Psychological Re
 * **Emma Tupone** ([@emmatup0205](https://github.com/emmatup0205))
 * **Xinru Wang** ([@xrwangxr](https://github.com/xrwangxr))
 
+### Acknowledgements
+
+This package was accepted into the rOpenSci software ecosystem following open peer review. Many thanks to editor @martinezc1 and reviewers @donghl17 and @MichaelPascale for their thoughtful feedback, which substantially improved the package.
+
 ---
 
 ## Academic Context
