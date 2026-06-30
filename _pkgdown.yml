@@ -1,13 +1,14 @@
-url: https://martinezc1.github.io/nycOpenData/
+url: https://docs.ropensci.org/nycOpenData/
 logo: man/figures/nycOpenData_hex.png
+
 development:
   mode: auto
-template:
-  bootstrap: 5
+
 articles:
   - title: "Vignettes"
     contents:
       - getting-started
+
 reference:
   - title: "Getting started"
     desc: "Core functions"
