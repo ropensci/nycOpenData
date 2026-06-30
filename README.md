@@ -302,7 +302,7 @@ functions and documentation:
 
 ### Acknowledgements
 
-This package was accepted into the rOpenSci software ecosystem following open peer review. Many thanks to editor @martinezc1 and reviewers [@donghl17](https://github.com/donghl17) and [@MichaelPascale](https://github.com/michaelpascale) for their thoughtful feedback, which substantially improved the package.
+This package was accepted into the rOpenSci software ecosystem following open peer review. Many thanks to editor [@ronnyhdez](https://github.com/ronnyhdez) and reviewers [@donghl17](https://github.com/donghl17) and [@MichaelPascale](https://github.com/michaelpascale) for their thoughtful feedback, which substantially improved the package.
 
 ------------------------------------------------------------------------
 
