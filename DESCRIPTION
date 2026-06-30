@@ -65,8 +65,8 @@ Suggests:
     tidyr,
     vcr (>= 0.6.0),
     webmockr
-URL: https://martinezc1.github.io/nycOpenData/, https://github.com/martinezc1/nycOpenData
-BugReports: https://github.com/martinezc1/nycOpenData/issues
+URL: https://docs.ropensci.org/nycOpenData/, https://github.com/ropensci/nycOpenData
+BugReports: https://github.com/ropensci/nycOpenData/issues
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 Depends: 
