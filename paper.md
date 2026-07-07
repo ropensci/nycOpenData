@@ -13,9 +13,6 @@ authors:
  orcid: 0009-0005-6026-6454
 date: 07 July 2026
 bibliography: paper.bib
-editor_options:
-  markdown:
-    wrap: 72
 ---
 
 # Summary
