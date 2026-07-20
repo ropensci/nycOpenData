@@ -34,3 +34,4 @@
 ^README\.Rmd$
 ^\.positai$
 ^\.claude$
+^test\.R$

@@ -7,6 +7,6 @@ bibentry(
                    email = "c.martinez0@outlook.com",
                    comment = c(ORCID = "0009-0005-6026-6454")),
   year    = "2026",
-  note    = "R package version 0.2.2",
-  url     = "https://github.com/martinezc1/nycOpenData"
+  note    = "R package version 0.2.3",
+  url     = "https://github.com/ropensci/nycOpenData"
 )
