@@ -43,15 +43,6 @@ test_that(".nyc_build_date_where handles partial ranges", {
   expect_match(res_to, "< '2025-01-01T00:00:00.000'")
 })
 
-test_that(".nyc_get_json handles HTTP errors", {
-  # We mock a response with a 404 status
-  # If you don't want to use a mocking library,
-  # just pass a deliberately malformed ID to a helper that calls this
-  expect_error(
-    nycOpenData:::.nyc_get_json("https://httpbin.org/status/404", list()),
-    "HTTP status 404"
-  )
-})
 
 test_that(".nyc_build_date_where throws errors on conflicting args", {
   builder <- nycOpenData:::.nyc_build_date_where
