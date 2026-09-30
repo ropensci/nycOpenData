@@ -5,6 +5,7 @@
 status](https://www.r-pkg.org/badges/version/nycOpenData)](https://CRAN.R-project.org/package=nycOpenData)
 [![CRAN
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/nycOpenData?color=blue)](https://r-pkg.org/pkg/nycOpenData)
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.11339/status.svg)](https://doi.org/10.21105/joss.11339)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 [![Project Status:
