@@ -10,13 +10,13 @@ tags:
   - data retrieval
 authors:
   - name: Christian Martinez
-    orcid: 0009-0005-6026-6454
+    orcid: "0009-0005-6026-6454"
     affiliation: 1
 affiliations:
-  - name: The Open Data Lab, United States
+  - name: "The Open Data Lab, United States"
     index: 1
-date: 07 July 2026
-bibliography: paper.bib
+date: "07 July 2026"
+bibliography: "paper.bib"
 ---
 
 # Summary
